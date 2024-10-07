@@ -1,0 +1,14 @@
+{
+  "name": "ce7-m3-node-application",
+  "version": "1.0.0",
+  "description": "node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository: https://github.com/tcwong2024/CE7-M3-Node-Application.git"
+  },
+  "author": "wtc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
