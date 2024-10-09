@@ -4,11 +4,22 @@
   "description": "node application",
   "main": "index.js",
   "scripts": {
-    "test": "git repository: https://github.com/tcwong2024/CE7-M3-Node-Application.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcwong2024/CE7-M3-Node-Application.git"
   },
   "author": "wtc",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcwong2024/CE7-M3-Node-Application/issues"
+  },
+  "homepage": "https://github.com/tcwong2024/CE7-M3-Node-Application#readme",
   "dependencies": {
     "express": "^4.21.0"
-  }
+  },
+  "keywords": [
+    "nodejsapp"
+  ]
 }
